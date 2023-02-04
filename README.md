@@ -1,2 +1,2 @@
 # ejercicios-bootcamp
-Resolución de los ejercicios de Open-Bootcamp.
+Resolución de los ejercicios del curso HTML-CSS de Open-Bootcamp.
